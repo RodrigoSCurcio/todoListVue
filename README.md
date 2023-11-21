@@ -1,3 +1,5 @@
+![Todo](https://github.com/RodrigoSCurcio/todoListVue/assets/59969422/5d9cb0ee-4a8a-463d-89dc-ef50125a9641)
+
 Status: Finalizado 👌🏼
 
 
